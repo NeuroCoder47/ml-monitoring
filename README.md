@@ -1,5 +1,4 @@
 # ml-monitoring
-*Jeremy Jordan*
 
 This repository provides an example setup for monitoring an ML system deployed on Kubernetes.
 
