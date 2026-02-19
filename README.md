@@ -2,7 +2,7 @@
 
 This repository provides an example setup for monitoring an ML system deployed on Kubernetes.
 
-Blog post: https://www.jeremyjordan.me/ml-monitoring/
+
 
 Components:
 - ML model served via `FastAPI`
